@@ -1,0 +1,8 @@
+<!ELEMENT stationers (data+)>
+<!ELEMENT data (P_id , P_name , quantity , unit , dozen , stock )>
+<!ELEMENT P_id (#PCDATA)>
+<!ELEMENT P_name (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT unit (#PCDATA)>
+<!ELEMENT dozen (#PCDATA)>
+<!ELEMENT stock (#PCDATA)>

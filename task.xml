@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="task.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-model href="task.dtd" type="application/xml-dtd"?>
+<?xml-stylesheet href="task.xsl" type="text/xsl"?>
+
+<stationers>
+    <data>
+        <P_id>1</P_id>
+        <P_name>Pencil</P_name>
+        <quantity>12000 units</quantity>
+        <unit>10</unit>
+        <dozen>110</dozen>
+        <stock>Yes</stock>
+    </data>
+    <data>
+        <P_id>2</P_id>
+        <P_name>Pen</P_name>
+        <quantity>6000 units</quantity>
+        <unit>60</unit>
+        <dozen>700</dozen>
+        <stock>Yes</stock>
+    </data>
+    <data>
+        <P_id>3</P_id>
+        <P_name>Eraser</P_name>
+        <quantity>15000 units</quantity>
+        <unit>7</unit>
+        <dozen>80</dozen>
+        <stock>Yes</stock>
+    </data>
+    <data>
+        <P_id>4</P_id>
+        <P_name>Sharpener</P_name>
+        <quantity>0 units</quantity>
+        <unit>10</unit>
+        <dozen>110</dozen>
+        <stock>no</stock>
+    </data>
+    <data>
+        <P_id>5</P_id>
+        <P_name>Board Marker</P_name>
+        <quantity>500 units</quantity>
+        <unit>80</unit>
+        <dozen>900</dozen>
+        <stock>Yes</stock>
+    </data>
+</stationers>
